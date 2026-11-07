@@ -1,0 +1,20 @@
+{
+  "item.kazakiri.aim_crystal": "AIM Crystal",
+  "kazakiri.ability.aim_diffusion": "AIM Diffusion Field",
+  "kazakiri.skill.angels_descent": "Angel's Descent",
+  "kazakiri.skill.angels_descent.desc": "Leap upward on AIM wings and glide. Sprint to speed up, sneak to drop faster. Landing sends out a pressure wave that hurts and pushes nearby enemies.",
+  "kazakiri.skill.aim_revelation": "AIM Revelation",
+  "kazakiri.skill.aim_revelation.desc": "Read the AIM field around you for 5 seconds. Creatures within 28 blocks are outlined through walls: hostiles in rose, everything else in cyan.",
+  "kazakiri.skill.celestial_spear": "Celestial Spear",
+  "kazakiri.skill.celestial_spear.desc": "Assemble a crystalline spear above your hand and hurl it in a straight line. It pierces up to 3 targets.",
+  "kazakiri.skill.sanctuary": "Sanctuary",
+  "kazakiri.skill.sanctuary.desc": "Close a shell of wings around the ally you are looking at, or around yourself. It absorbs damage for 5 seconds; one very strong hit breaks it.",
+  "kazakiri.skill.seraphic_array": "Seraphic Array",
+  "kazakiri.skill.seraphic_array.desc": "Summon wing-shaped constructs behind you. For 5 seconds they take turns striking the nearest enemies.",
+  "kazakiri.skill.heavens_rejection": "Heaven's Rejection",
+  "kazakiri.skill.heavens_rejection.desc": "Sweep a curved wave in front of you. It throws enemies back, interrupts their item use and destroys incoming projectiles.",
+  "kazakiri.skill.archangel_protocol": "Archangel Protocol",
+  "kazakiri.skill.archangel_protocol.desc": "Transform for 12 seconds: a second pair of wings, a halo, more speed, a stronger Celestial Spear and Sanctuary, and an extra Seraphic Array construct.",
+  "kazakiri.skill.aim_convergence": "AIM Convergence",
+  "kazakiri.skill.aim_convergence.desc": "Ultimate. A giant Archangel forms behind you, restrains enemies in the field, strikes them with its constructs and ends with one massive wing strike. You and your allies take less damage while it lasts."
+}

@@ -1,0 +1,41 @@
+modLoader="javafml"
+loaderVersion="[47,48)"
+license="MIT"
+
+[[mods]]
+modId="kazakiri"
+version="${version}"
+displayName="Kazakiri - AIM Diffusion Field (Re:AcademyCraft add-on)"
+description='''
+An AIM Diffusion Field esper category inspired by Hyouka Kazakiri: AIM Pulse, AIM Barrier, Diffusion Scan, Field Wings,
+AIM Construct, Field Repulsion, Angelic Manifestation and the Archangel ultimate. All visuals are custom 3D geometry.
+'''
+
+[[dependencies.kazakiri]]
+modId="academy"
+mandatory=true
+versionRange="[1.5.0,1.6)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.kazakiri]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.10,48)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.kazakiri]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"
+
+# Body poses. Only needed on players' games (the server never loads the animation code).
+[[dependencies.kazakiri]]
+modId="playeranimator"
+mandatory=true
+versionRange="*"
+ordering="NONE"
+side="CLIENT"
