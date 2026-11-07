@@ -30,4 +30,6 @@ jobs:
       - name: Save the finished mod
         uses: actions/upload-artifact@v4
         with:
-          name:
+          name: kazakiri-mod
+          path: build/libs/*.jar
+          if-no-files-found: error
